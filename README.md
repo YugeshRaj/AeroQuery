@@ -12,11 +12,7 @@ The system processes PDF files, splits them into semantic chunks, generates embe
 * FAISS vector database integration
 * Retrieval-Augmented Generation (RAG) pipeline
 * Groq LLM integration for answer generation
-* FastAPI backend APIs
-* React + TypeScript frontend chat interface
-* Source-aware responses from uploaded documents
-* Scalable architecture for multi-document knowledge bases
-
+  
 ## Tech Stack
 
 ### Backend
@@ -28,12 +24,6 @@ The system processes PDF files, splits them into semantic chunks, generates embe
 * Sentence Transformers
 * Groq API
 
-### Frontend
-
-* React
-* TypeScript
-* Vite
-* Bootstrap / Tailwind CSS
 
 ## Workflow
 
